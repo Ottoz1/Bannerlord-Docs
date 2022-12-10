@@ -1,4 +1,4 @@
-TaleWorlds.CampaignSystem.MapEvents.MapEvenSide
+TaleWorlds.Location
 
 **All Implemented Interfaces:**
 
@@ -6,25 +6,20 @@ TaleWorlds.CampaignSystem.MapEvents.MapEvenSide
 
 -------------------------------------------------------------------------------
 
-public class MapEventSide
+public class Name
 
 ### Variables
 
-private [[PriorityQueue]]<float, KeyValyePair<[[UniqueTroopDescriptor]], [[MapEventParty]]>> \_readyTroopsPriorityQueue; 
+private var1
 
-private Dictionary<[[UniqueTroopDescriptor]], [[MapEventParty]]> \_readyTroopsTemporaryCache;
+private var2
 
 ### Method Summary
 
 | Modifier and Type | Method                                                                                  | Description   |
 | ----------------- | ------------------------------------------------------------------------------------------------------- | --- |
-| boolean           | ApplySimulationDamageToSelectedTroop(int damage, [[DamageType]] damageType, [[PartyBase]] strikerParty) |Applies damage to individual units and handles post damage effects like death and wounded    |
+| boolean           | Example(var1, var2)  | Does stuff
 |                   |                                                                                                         |     |
 
 ### Notes
-lol no idea
-
-
-
-
-
+notes

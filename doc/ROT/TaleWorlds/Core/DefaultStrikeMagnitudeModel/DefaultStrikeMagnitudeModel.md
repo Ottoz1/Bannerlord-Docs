@@ -1,4 +1,4 @@
-TaleWorlds.CampaignSystem.MapEvents.MapEvenSide
+TaleWorlds.Core.DefaultStrikeMagnitudeModel
 
 **All Implemented Interfaces:**
 
@@ -6,23 +6,20 @@ TaleWorlds.CampaignSystem.MapEvents.MapEvenSide
 
 -------------------------------------------------------------------------------
 
-public class MapEventSide
+public class DefaultStrikeMagnitudeModel
 
 ### Variables
 
-private [[PriorityQueue]]<float, KeyValyePair<[[UniqueTroopDescriptor]], [[MapEventParty]]>> \_readyTroopsPriorityQueue; 
-
-private Dictionary<[[UniqueTroopDescriptor]], [[MapEventParty]]> \_readyTroopsTemporaryCache;
 
 ### Method Summary
 
 | Modifier and Type | Method                                                                                  | Description   |
 | ----------------- | ------------------------------------------------------------------------------------------------------- | --- |
-| boolean           | ApplySimulationDamageToSelectedTroop(int damage, [[DamageType]] damageType, [[PartyBase]] strikerParty) |Applies damage to individual units and handles post damage effects like death and wounded    |
+| public override float           | ComputeRawDamage([[DamageType]] damageType, float magnitude, float armorEffectiveness, float absorbedDamageRation)  | Calculates the raw damage based on damage type and armor effectiveness
 |                   |                                                                                                         |     |
 
 ### Notes
-lol no idea
+notes
 
 
 

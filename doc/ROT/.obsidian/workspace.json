@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/MapEventSide.md",
+                "file": "TaleWorlds/Core/DefaultStrikeMagnitudeModel/DefaultStrikeMagnitudeModel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d4f0575ac92d20d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/MapEventSide.md",
+                "file": "Class Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/MapEventSide.md",
+                "file": "Class Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/MapEventSide.md"
+                "file": "Class Template.md"
               }
             }
           }
@@ -146,12 +159,13 @@
   },
   "active": "56bfd5677ff9bb78",
   "lastOpenFiles": [
-    "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/SimulationDamage.md",
+    "TaleWorlds/Core/DefaultStrikeMagnitudeModel/DefaultStrikeMagnitudeModel.md",
     "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/MapEventSide.md",
+    "Class Template.md",
+    "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/SimulationDamage.md",
     "UniqueTroopDescriptor.md",
     "Classes that are yet to be placed in proper location/DamageType.md",
     "TaleWorlds/Untitled.md",
-    "Classes that are yet to be placed in proper location/PartyBase.md",
-    "Untitled.md"
+    "Classes that are yet to be placed in proper location/PartyBase.md"
   ]
 }
