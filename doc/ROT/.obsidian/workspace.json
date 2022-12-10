@@ -11,6 +11,18 @@
             "id": "91ed5d65f78242bb",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/MapEventSide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d683fe00fd191d03",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
@@ -65,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "707de39f8df37476",
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/MapEventSide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/MapEventSide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/MapEventSide.md"
+              }
             }
           }
         ]
@@ -128,6 +144,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91ed5d65f78242bb",
-  "lastOpenFiles": []
+  "active": "56bfd5677ff9bb78",
+  "lastOpenFiles": [
+    "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/SimulationDamage.md",
+    "TaleWorlds/CampaignSystem/MapEvents/MapEventSide/MapEventSide.md",
+    "UniqueTroopDescriptor.md",
+    "Classes that are yet to be placed in proper location/DamageType.md",
+    "TaleWorlds/Untitled.md",
+    "Classes that are yet to be placed in proper location/PartyBase.md",
+    "Untitled.md"
+  ]
 }
